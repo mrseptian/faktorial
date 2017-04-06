@@ -1,0 +1,2 @@
+# faktorial
+aneh ih
